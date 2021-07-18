@@ -1,0 +1,443 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Abhay\\MVC\\pranit\\FirstService\\FirstService.csproj": {}
+  },
+  "projects": {
+    "G:\\Abhay\\MVC\\pranit\\DBContextProject\\DBContextProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Abhay\\MVC\\pranit\\DBContextProject\\DBContextProject.csproj",
+        "projectName": "DBContextProject",
+        "projectPath": "G:\\Abhay\\MVC\\pranit\\DBContextProject\\DBContextProject.csproj",
+        "packagesPath": "C:\\Users\\abhay\\.nuget\\packages\\",
+        "outputPath": "G:\\Abhay\\MVC\\pranit\\DBContextProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj",
+        "projectName": "FirstEnity",
+        "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj",
+        "packagesPath": "C:\\Users\\abhay\\.nuget\\packages\\",
+        "outputPath": "G:\\Abhay\\MVC\\pranit\\FirstEnity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Abhay\\MVC\\pranit\\FirstEntityModel\\FirstEntityModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Abhay\\MVC\\pranit\\FirstEntityModel\\FirstEntityModel.csproj",
+        "projectName": "FirstEntityModel",
+        "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstEntityModel\\FirstEntityModel.csproj",
+        "packagesPath": "C:\\Users\\abhay\\.nuget\\packages\\",
+        "outputPath": "G:\\Abhay\\MVC\\pranit\\FirstEntityModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj"
+              },
+              "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj",
+        "projectName": "FirstModel",
+        "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj",
+        "packagesPath": "C:\\Users\\abhay\\.nuget\\packages\\",
+        "outputPath": "G:\\Abhay\\MVC\\pranit\\FirstModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Abhay\\MVC\\pranit\\FirstRepositoryLayer\\FirstRepositoryLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Abhay\\MVC\\pranit\\FirstRepositoryLayer\\FirstRepositoryLayer.csproj",
+        "projectName": "FirstRepositoryLayer",
+        "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstRepositoryLayer\\FirstRepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\abhay\\.nuget\\packages\\",
+        "outputPath": "G:\\Abhay\\MVC\\pranit\\FirstRepositoryLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "G:\\Abhay\\MVC\\pranit\\DBContextProject\\DBContextProject.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\DBContextProject\\DBContextProject.csproj"
+              },
+              "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstEnity\\FirstEnity.csproj"
+              },
+              "G:\\Abhay\\MVC\\pranit\\FirstEntityModel\\FirstEntityModel.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstEntityModel\\FirstEntityModel.csproj"
+              },
+              "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Abhay\\MVC\\pranit\\FirstService\\FirstService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Abhay\\MVC\\pranit\\FirstService\\FirstService.csproj",
+        "projectName": "FirstService",
+        "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstService\\FirstService.csproj",
+        "packagesPath": "C:\\Users\\abhay\\.nuget\\packages\\",
+        "outputPath": "G:\\Abhay\\MVC\\pranit\\FirstService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abhay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstModel\\FirstModel.csproj"
+              },
+              "G:\\Abhay\\MVC\\pranit\\FirstRepositoryLayer\\FirstRepositoryLayer.csproj": {
+                "projectPath": "G:\\Abhay\\MVC\\pranit\\FirstRepositoryLayer\\FirstRepositoryLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

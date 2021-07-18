@@ -1,0 +1,11 @@
+G:\Abhay\MVC\pranit\FirstModel\bin\Debug\netcoreapp3.1\FirstModel.deps.json
+G:\Abhay\MVC\pranit\FirstModel\bin\Debug\netcoreapp3.1\FirstModel.dll
+G:\Abhay\MVC\pranit\FirstModel\bin\Debug\netcoreapp3.1\FirstModel.pdb
+G:\Abhay\MVC\pranit\FirstModel\obj\Debug\netcoreapp3.1\FirstModel.AssemblyInfoInputs.cache
+G:\Abhay\MVC\pranit\FirstModel\obj\Debug\netcoreapp3.1\FirstModel.AssemblyInfo.cs
+G:\Abhay\MVC\pranit\FirstModel\obj\Debug\netcoreapp3.1\FirstModel.dll
+G:\Abhay\MVC\pranit\FirstModel\obj\Debug\netcoreapp3.1\FirstModel.pdb
+G:\Abhay\MVC\pranit\FirstModel\bin\Debug\netcoreapp3.1\FirstModel.runtimeconfig.json
+G:\Abhay\MVC\pranit\FirstModel\bin\Debug\netcoreapp3.1\FirstModel.runtimeconfig.dev.json
+G:\Abhay\MVC\pranit\FirstModel\obj\Debug\netcoreapp3.1\FirstModel.genruntimeconfig.cache
+G:\Abhay\MVC\pranit\FirstModel\obj\Debug\netcoreapp3.1\FirstModel.csproj.CoreCompileInputs.cache

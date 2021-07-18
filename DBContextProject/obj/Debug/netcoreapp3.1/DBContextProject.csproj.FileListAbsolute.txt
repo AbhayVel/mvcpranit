@@ -1,0 +1,15 @@
+G:\Abhay\MVC\pranit\DBContextProject\bin\Debug\netcoreapp3.1\DBContextProject.deps.json
+G:\Abhay\MVC\pranit\DBContextProject\bin\Debug\netcoreapp3.1\DBContextProject.dll
+G:\Abhay\MVC\pranit\DBContextProject\obj\Debug\netcoreapp3.1\DBContextProject.csprojAssemblyReference.cache
+G:\Abhay\MVC\pranit\DBContextProject\obj\Debug\netcoreapp3.1\DBContextProject.AssemblyInfoInputs.cache
+G:\Abhay\MVC\pranit\DBContextProject\obj\Debug\netcoreapp3.1\DBContextProject.AssemblyInfo.cs
+G:\Abhay\MVC\pranit\DBContextProject\bin\Debug\netcoreapp3.1\DBContextProject.pdb
+G:\Abhay\MVC\pranit\DBContextProject\bin\Debug\netcoreapp3.1\FirstEnity.dll
+G:\Abhay\MVC\pranit\DBContextProject\bin\Debug\netcoreapp3.1\FirstEnity.pdb
+G:\Abhay\MVC\pranit\DBContextProject\obj\Debug\netcoreapp3.1\DBContextProject.csproj.CopyComplete
+G:\Abhay\MVC\pranit\DBContextProject\obj\Debug\netcoreapp3.1\DBContextProject.dll
+G:\Abhay\MVC\pranit\DBContextProject\obj\Debug\netcoreapp3.1\DBContextProject.pdb
+G:\Abhay\MVC\pranit\DBContextProject\bin\Debug\netcoreapp3.1\DBContextProject.runtimeconfig.json
+G:\Abhay\MVC\pranit\DBContextProject\bin\Debug\netcoreapp3.1\DBContextProject.runtimeconfig.dev.json
+G:\Abhay\MVC\pranit\DBContextProject\obj\Debug\netcoreapp3.1\DBContextProject.genruntimeconfig.cache
+G:\Abhay\MVC\pranit\DBContextProject\obj\Debug\netcoreapp3.1\DBContextProject.csproj.CoreCompileInputs.cache

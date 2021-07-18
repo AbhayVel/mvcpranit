@@ -1,0 +1,13 @@
+G:\Abhay\MVC\pranit\FIrst\bin\Debug\netcoreapp3.1\FIrst.exe
+G:\Abhay\MVC\pranit\FIrst\bin\Debug\netcoreapp3.1\FIrst.deps.json
+G:\Abhay\MVC\pranit\FIrst\bin\Debug\netcoreapp3.1\FIrst.runtimeconfig.json
+G:\Abhay\MVC\pranit\FIrst\bin\Debug\netcoreapp3.1\FIrst.runtimeconfig.dev.json
+G:\Abhay\MVC\pranit\FIrst\bin\Debug\netcoreapp3.1\FIrst.dll
+G:\Abhay\MVC\pranit\FIrst\bin\Debug\netcoreapp3.1\FIrst.pdb
+G:\Abhay\MVC\pranit\FIrst\obj\Debug\netcoreapp3.1\FIrst.csprojAssemblyReference.cache
+G:\Abhay\MVC\pranit\FIrst\obj\Debug\netcoreapp3.1\FIrst.AssemblyInfoInputs.cache
+G:\Abhay\MVC\pranit\FIrst\obj\Debug\netcoreapp3.1\FIrst.AssemblyInfo.cs
+G:\Abhay\MVC\pranit\FIrst\obj\Debug\netcoreapp3.1\FIrst.csproj.CoreCompileInputs.cache
+G:\Abhay\MVC\pranit\FIrst\obj\Debug\netcoreapp3.1\FIrst.dll
+G:\Abhay\MVC\pranit\FIrst\obj\Debug\netcoreapp3.1\FIrst.pdb
+G:\Abhay\MVC\pranit\FIrst\obj\Debug\netcoreapp3.1\FIrst.genruntimeconfig.cache

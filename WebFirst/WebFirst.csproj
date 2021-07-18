@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="5.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FirstModel\FirstModel.csproj" />
+    <ProjectReference Include="..\FirstService\FirstService.csproj" />
+    <ProjectReference Include="..\FirstUtility\FirstUtility.csproj" />
+  </ItemGroup>
+
+</Project>

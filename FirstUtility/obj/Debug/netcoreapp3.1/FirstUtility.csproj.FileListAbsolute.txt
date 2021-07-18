@@ -1,0 +1,15 @@
+G:\Abhay\MVC\pranit\FirstUtility\bin\Debug\netcoreapp3.1\FirstUtility.deps.json
+G:\Abhay\MVC\pranit\FirstUtility\bin\Debug\netcoreapp3.1\FirstUtility.dll
+G:\Abhay\MVC\pranit\FirstUtility\bin\Debug\netcoreapp3.1\FirstUtility.pdb
+G:\Abhay\MVC\pranit\FirstUtility\obj\Debug\netcoreapp3.1\FirstUtility.AssemblyInfoInputs.cache
+G:\Abhay\MVC\pranit\FirstUtility\obj\Debug\netcoreapp3.1\FirstUtility.AssemblyInfo.cs
+G:\Abhay\MVC\pranit\FirstUtility\obj\Debug\netcoreapp3.1\FirstUtility.dll
+G:\Abhay\MVC\pranit\FirstUtility\obj\Debug\netcoreapp3.1\FirstUtility.pdb
+G:\Abhay\MVC\pranit\FirstUtility\bin\Debug\netcoreapp3.1\FirstUtility.runtimeconfig.json
+G:\Abhay\MVC\pranit\FirstUtility\bin\Debug\netcoreapp3.1\FirstUtility.runtimeconfig.dev.json
+G:\Abhay\MVC\pranit\FirstUtility\obj\Debug\netcoreapp3.1\FirstUtility.genruntimeconfig.cache
+G:\Abhay\MVC\pranit\FirstUtility\obj\Debug\netcoreapp3.1\FirstUtility.csprojAssemblyReference.cache
+G:\Abhay\MVC\pranit\FirstUtility\bin\Debug\netcoreapp3.1\FirstEnity.dll
+G:\Abhay\MVC\pranit\FirstUtility\bin\Debug\netcoreapp3.1\FirstEnity.pdb
+G:\Abhay\MVC\pranit\FirstUtility\obj\Debug\netcoreapp3.1\FirstUtility.csproj.CopyComplete
+G:\Abhay\MVC\pranit\FirstUtility\obj\Debug\netcoreapp3.1\FirstUtility.csproj.CoreCompileInputs.cache

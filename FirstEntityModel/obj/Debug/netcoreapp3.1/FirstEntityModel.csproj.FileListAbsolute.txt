@@ -1,0 +1,17 @@
+G:\Abhay\MVC\pranit\FirstEntityModel\obj\Debug\netcoreapp3.1\FirstEntityModel.csprojAssemblyReference.cache
+G:\Abhay\MVC\pranit\FirstEntityModel\obj\Debug\netcoreapp3.1\FirstEntityModel.AssemblyInfoInputs.cache
+G:\Abhay\MVC\pranit\FirstEntityModel\obj\Debug\netcoreapp3.1\FirstEntityModel.AssemblyInfo.cs
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstEntityModel.deps.json
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstEntityModel.dll
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstEntityModel.pdb
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstEnity.dll
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstModel.dll
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstEnity.pdb
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstModel.pdb
+G:\Abhay\MVC\pranit\FirstEntityModel\obj\Debug\netcoreapp3.1\FirstEntityModel.csproj.CopyComplete
+G:\Abhay\MVC\pranit\FirstEntityModel\obj\Debug\netcoreapp3.1\FirstEntityModel.dll
+G:\Abhay\MVC\pranit\FirstEntityModel\obj\Debug\netcoreapp3.1\FirstEntityModel.pdb
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstEntityModel.runtimeconfig.json
+G:\Abhay\MVC\pranit\FirstEntityModel\bin\Debug\netcoreapp3.1\FirstEntityModel.runtimeconfig.dev.json
+G:\Abhay\MVC\pranit\FirstEntityModel\obj\Debug\netcoreapp3.1\FirstEntityModel.genruntimeconfig.cache
+G:\Abhay\MVC\pranit\FirstEntityModel\obj\Debug\netcoreapp3.1\FirstEntityModel.csproj.CoreCompileInputs.cache

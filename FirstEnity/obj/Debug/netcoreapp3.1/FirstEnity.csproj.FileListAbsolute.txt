@@ -1,0 +1,12 @@
+G:\Abhay\MVC\pranit\FirstEnity\bin\Debug\netcoreapp3.1\FirstEnity.deps.json
+G:\Abhay\MVC\pranit\FirstEnity\bin\Debug\netcoreapp3.1\FirstEnity.dll
+G:\Abhay\MVC\pranit\FirstEnity\bin\Debug\netcoreapp3.1\FirstEnity.pdb
+G:\Abhay\MVC\pranit\FirstEnity\obj\Debug\netcoreapp3.1\FirstEnity.AssemblyInfoInputs.cache
+G:\Abhay\MVC\pranit\FirstEnity\obj\Debug\netcoreapp3.1\FirstEnity.AssemblyInfo.cs
+G:\Abhay\MVC\pranit\FirstEnity\obj\Debug\netcoreapp3.1\FirstEnity.dll
+G:\Abhay\MVC\pranit\FirstEnity\obj\Debug\netcoreapp3.1\FirstEnity.pdb
+G:\Abhay\MVC\pranit\FirstEnity\bin\Debug\netcoreapp3.1\FirstEnity.runtimeconfig.json
+G:\Abhay\MVC\pranit\FirstEnity\bin\Debug\netcoreapp3.1\FirstEnity.runtimeconfig.dev.json
+G:\Abhay\MVC\pranit\FirstEnity\obj\Debug\netcoreapp3.1\FirstEnity.genruntimeconfig.cache
+G:\Abhay\MVC\pranit\FirstEnity\obj\Debug\netcoreapp3.1\FirstEnity.csproj.CoreCompileInputs.cache
+G:\Abhay\MVC\pranit\FirstEnity\obj\Debug\netcoreapp3.1\FirstEnity.csprojAssemblyReference.cache

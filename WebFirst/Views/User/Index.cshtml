@@ -1,0 +1,131 @@
+﻿@model List<FirstEnity.User>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+
+                <div class="card-body">
+                    <form action="/user/index?columnName=@ViewBag.columnName&orderBy=@ViewBag.orderBy" method="post">
+                        <table>
+                            <tr>
+                                <th>
+                                    <input type="text" name="IdGte" value="@ViewBag.search.UserSearchList[0].ColumnValue" />
+                                    <input type="text" name="IdLte" value="@ViewBag.search.UserSearchList[0].ColumnValue" />
+
+
+                                </th>
+                                <th><input type="text" name="FirstName" value="@ViewBag.search.UserSearchList[1].ColumnValue" /></th>
+                                <th><input type="text" name="LastName" /></th>
+                                <th><input type="text" name="Age" /></th>
+
+                                <th><input type="text" name="DepartMent" /></th>
+                                <th><input type="text" name="Edit" /></th>
+                                <th><input type="text" name="Delete" /></th>
+                                
+                            </tr>
+                        </table>
+
+                        <table>
+                            <tr>
+                                <th>
+                                    <input type="text" name="Id" value="@ViewBag.search.UserSearchList[0].ColumnValue" />
+
+
+
+                                </th>
+                                <th><input type="text" name="FirstName" value="@ViewBag.search.UserSearchList[1].ColumnValue" /></th>
+                                <th><input type="text" name="LastName" /></th>
+                                <th><input type="text" name="Age" /></th>
+                         
+
+
+                            </tr>
+                        </table>
+
+                        <input type="hidden" name="orderBy" id="orderByHid" value="@ViewBag.orderBy" />
+
+                        <input type="hidden" name="columnName" id="columnNameHid" value="@ViewBag.columnName" />
+
+                        <button type="submit" id="btnSubmit">Search</button>
+                    </form>
+                   
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th><a href="/user/index?columnName=Id&orderBy=desc"  >Id</a></th>
+                                <th><a href="/user/index?columnName=FirstName&orderBy=desc"  >First Name</a></th>
+                                <th><a href="/user/index?columnName=LastName&orderBy=desc"  >LastName</a></th>
+                                <th><a href="/user/index?columnName=age&orderBy=desc" >age</a></th>
+
+
+                                @*<th><a href="/user/index?columnName=Id&orderBy=desc" onClick="javascript:clickSort('Id','@ViewBag.orderBy' )">Id</a></th>
+                                <th><a href="/user/index?columnName=FirstName&orderBy=desc" onclick="clickSort('FirstName','@ViewBag.orderBy' )">First Name</a></th>
+                                <th><a href="/user/index?columnName=LastName&orderBy=desc" onclick="clickSort('LastName','@ViewBag.orderBy' )">LastName</a></th>
+                                <th><a href="/user/index?columnName=age&orderBy=desc" onclick="clickSort('age','@ViewBag.orderBy' )">age</a></th>*@
+
+                            </tr>
+
+                           
+                        </thead>
+                        <tbody>
+                            @for (int i = 0; i < Model.Count;i=i+1)
+                            {
+                                 
+                            <tr>
+                                <td>@Model[i].Id</td>
+                                <td>
+                                    @Model[i].FirstName
+                                </td>
+                                <td>@Model[i].LastName</td>
+                                <td> @Model[i].age</td>
+
+                                <td> @Model[i]?.Dept?.Name</td>
+
+                                @if (User.IsInRole("Admin,Dept"))
+                                {
+                                    <td><a href="/user/edit/@Model[i].Id">Edit</a></td>
+                                }
+
+
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <td> <form action="/user/delete/@Model[i].Id"> <button type="submit"> Delete</button></form></td>
+
+
+                                }
+
+
+
+
+                            </tr>
+                                
+                               
+                            }
+
+                            
+                        </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+    </div>
+</section>
+
+
+
+<script type="text/javascript">
+
+    debugger;
+    function clickSort(columnName, orderBy) {
+        event.preventDefault();
+        debugger;
+        document.querySelector("#orderByHid").value = orderBy;
+
+        document.querySelector("#columnNameHid").value = columnName;
+        document.querySelector("#btnSubmit").click();
+
+        return false;
+    }
+
+
+</script>

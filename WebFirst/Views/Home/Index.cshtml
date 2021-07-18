@@ -1,0 +1,70 @@
+﻿@model Employee
+@{
+
+
+    ViewData["Title"] = "Home Page";
+    ViewData["isShowMenu"] = 0;
+    ViewBag.show = "1";
+}
+
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <form action="/home/index" method="post">
+                    <input asp-for="Id">
+
+                    <div>@ViewData.Model.Address</div>
+
+
+                    @Html.TextBoxFor(X => X.Name)
+
+                    @Html.TextBoxFor(X => X.Salary)
+
+                    @Html.TextBoxFor(X => X.Tax)
+
+
+                    @Html.EditorFor(X => X.Address.HomeAddress)
+
+                    @Html.EditorFor(X => X.Address.OfficeAddress)
+
+                    @Html.EditorFor(X => X.Address.Country.Id)
+
+                    @Html.EditorFor(X => X.Address.Country.Name)
+
+                    @for (var k = 0; k < Model.OtherAddress.Count; k++)
+                    {
+                        <br />
+                        @Html.EditorFor(X => X.OtherAddress[k].HomeAddress)
+                        @Html.EditorFor(X => X.OtherAddress[k].OfficeAddress)
+                    }
+
+                    @{
+                        int i = 0;
+                        int j = 0;
+                        // int k = i / j;
+                    }
+
+                    <ul>
+                        <li> View & layouts</li>
+                        <li> Html Helpers</li>
+                        <li style="color: blue"> Tag Helpers</li>
+                        <li> Templates</li>
+                        <li> Expressions</li>
+                        <li style="color: blue"> View Component</li>
+
+                        <li style="color: blue"> Depency Injection</li>
+                    </ul>
+
+
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+            </div>
+        </div>
+            <!-- /.container-fluid -->
+</section>
+ 
+
+
